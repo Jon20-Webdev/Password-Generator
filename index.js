@@ -44,12 +44,12 @@ function generatePass() {
 
 
 // Optional on click copy clipboard
-function myFunction() {
-    // // setPassOneEl.setSelectionRange(0, 99999); // For mobile devices
+// function myFunction() {
+//     // // setPassOneEl.setSelectionRange(0, 99999); // For mobile devices
   
-     // Copy the text inside the text field
-    navigator.clipboard.writeText(setPassOne());
+//      // Copy the text inside the text field
+//     navigator.clipboard.writeText(setPassOne());
   
-    // Alert the copied text
-    alert("Copied the text: " + setPassOne());
-  }
+//     // Alert the copied text
+//     alert("Copied the text: " + setPassOne());
+//   }
